@@ -1,0 +1,17 @@
+
+.titoli {
+    font-weight: bolder;
+}
+th {
+    width: 100px;
+    background-color: antiquewhite;
+}
+.table {
+    text-align: center;
+}
+table,td,th{
+    border: 4px, chocolate;
+}
+.torna{
+    font-size: small;
+}

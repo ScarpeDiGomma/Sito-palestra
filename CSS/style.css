@@ -1,0 +1,18 @@
+
+th {
+    width: 100px;
+    background-color: antiquewhite;
+}
+.attività {
+    font-weight: bolder;
+    color: darkblue;
+}
+.table {
+    text-align: center;
+}
+.allday {
+    background-color: darkgoldenrod;
+}
+#Attività {
+    background-color: gold;
+}
